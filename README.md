@@ -1,4 +1,4 @@
-# Curso Backend com Typescript da Pósgraduação do Instituto Infnet
+# Projeto da Disciplina de Backend com Typescript
 
 ## Para rodar em ambiente dev
 
